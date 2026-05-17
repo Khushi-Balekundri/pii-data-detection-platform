@@ -1,0 +1,31 @@
+[theme]
+base = "dark"
+textColor = "#f1faee"
+secondaryBackgroundColor = "#457b9d"
+backgroundColor = "#1d3557"
+primaryColor = "#a8dadc"
+font = "sans serif"
+
+[server]
+headless = true
+runOnSave = true
+enableStaticServing = true
+
+[browser]
+gatherUsageStats = false
+serverAddress = "localhost"
+serverPort = 8501
+
+[client]
+showErrorDetails = true
+toolbarMode = "minimal"
+
+[runner]
+magicEnabled = true
+fastReruns = true
+
+[logger]
+level = "info"
+
+[global]
+developmentMode = false
