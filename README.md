@@ -21,13 +21,13 @@ The system automates identification of confidential information such as names, p
 ---
 
 ## Sample Scan Results / Report
-
+<img width="602" height="758" alt="Screenshot 2026-05-05 111955" src="https://github.com/user-attachments/assets/490bcb06-0539-4038-a697-45f7a19c9ea3" />
 
 
 ---
 
 # System Architecture
-
+<img width="1536" height="1024" alt="ChatGPT Image May 5, 2026, 10_56_46 AM" src="https://github.com/user-attachments/assets/2ab63d6b-61a5-4d44-8549-12103359cad4" />
 
 
 ---
