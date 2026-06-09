@@ -132,8 +132,8 @@ The system aligns conceptually with data protection requirements such as the:
 ## 1. Clone Repository
 
 ```bash
-git clone <your-repo-link>
-cd <repo-name>
+git clone https://github.com/Khushi-Balekundri/pii-data-detection-platform
+cd pii-data-detection-platform
 ```
 
 ---
@@ -222,8 +222,6 @@ streamlit run ui/streamlit_app.py
 |---|---|---|
 | `/add_path` | POST | Add scan directory |
 | `/start_scan` | POST | Start scanning job |
-| `/login` | POST | User login |
-| `/signup` | POST | User registration |
 
 ---
 
@@ -272,18 +270,3 @@ streamlit run ui/streamlit_app.py
 - Incremental scanning
 - Advanced analytics dashboard
 
----
-
-# Author
-
-> Khushi Balekundri
-
-- Backend Development
-- Machine Learning
-- Privacy & Compliance Systems
-
----
-
-# License
-
-This project is intended for academic, internship, and educational purposes.
